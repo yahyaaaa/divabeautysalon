@@ -1,4 +1,4 @@
-/* Hifsa Khan Salon — homepage interactions */
+/* Diva Beauty Salon — homepage interactions */
 (function () {
   'use strict';
 

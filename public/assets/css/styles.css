@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Hifsa Khan Salon — homepage
+   Diva Beauty Salon — homepage
    Rebuilt against the reference screenshot. Original green palette retained.
    Hex values are read off a compressed screenshot, so they are close but not
    sampled from source; every one is a token here for a one-line correction.
@@ -8,7 +8,7 @@
 :root {
   /* Greens — the site's primary accent */
   --green: #8fae8b;
-  --green-dark: #7a9c76;
+  --green-dark: #d09b97;
   --green-deep: #e576a1;
   --green-line: #bcd2b8;
   --gold: #c9a227;

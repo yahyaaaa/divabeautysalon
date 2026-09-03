@@ -1,6 +1,6 @@
-# Hifsa Khan Salon — Homepage
+# Diva Beauty Salon — Homepage
 
-A static rebuild of the [hifsakhansalon.com](https://hifsakhansalon.com/) homepage, matched
+A static rebuild of a salon homepage design, matched
 section-by-section against a full-page screenshot of the original.
 
 ## Colour
@@ -10,7 +10,7 @@ The original green palette is used throughout. **No pink (`#E576A1`) appears any
 ```css
 /* assets/css/styles.css */
 --green:      #8fae8b;   /* primary accent: buttons, links, icons */
---green-dark: #7a9c76;   /* hover */
+--green-dark: #d09b97;   /* hover */
 --green-deep: #5f7f5b;   /* text on pale grounds */
 --green-line: #bcd2b8;   /* outline-button border */
 --green-pale: #e7eede;   /* newsletter ground */
@@ -39,7 +39,7 @@ Matches the reference top to bottom:
 7. Why Lahore keeps coming back — four cards
 8. The Expert's Guide to Effortless Radiance — topic list with hover-swapped image
 9. Special Promotions — one static creative plus two independent sliders
-10. Create Memories at Hifsa Khan Sets
+10. Create Memories at Diva Beauty Sets
 11. FAQ accordion + See All FAQs
 12. Real Transformations Real Stories — testimonial slider (quote + image move together)
 13. Newsletter
@@ -63,7 +63,7 @@ Replace each file (keep the name, or update the `src` in `index.html`):
 | `guide-1` … `guide-5`                         | Expert's Guide, one per topic | 1:1 |
 | `promo-makeup`                                | Special Promotions, static  | 1:1   |
 | `promo-hair-1..3`, `promo-spa-1..3`           | Special Promotions, sliders | 1:1   |
-| `sets`                                        | Hifsa Khan Sets             | 4:3   |
+| `sets`                                        | Diva Beauty Sets                  | 4:3   |
 | `tst-1`, `tst-2`                              | testimonial, one per quote  | 3:4   |
 | `insta-1` … `insta-6`                         | Instagram grid              | 1:1   |
 
