@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="video-still">
+  <rect width="1600" height="900" fill="#e8e4da"/>
+  <rect x="2" y="2" width="1596" height="896" fill="none" stroke="#cfc9bb" stroke-width="2" stroke-dasharray="10 7"/>
+  <g fill="none" stroke="#b3ac9c" stroke-width="2.4">
+    <rect x="757" y="404" width="86" height="66" rx="5"/>
+    <circle cx="782" cy="425" r="8"/>
+    <path d="M759 462l27-25 20 18 15-12 22 19"/>
+  </g>
+  <text x="50%" y="512" text-anchor="middle" font-family="Helvetica, Arial, sans-serif"
+        font-size="20" fill="#8d8778" letter-spacing="3">video-still</text>
+</svg>

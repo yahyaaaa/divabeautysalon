@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="promo-hair-1">
+  <rect width="600" height="600" fill="#e8e4da"/>
+  <rect x="1.5" y="1.5" width="597" height="597" fill="none" stroke="#cfc9bb" stroke-width="2" stroke-dasharray="9 6"/>
+  <g fill="none" stroke="#b3ac9c" stroke-width="2">
+    <rect x="264" y="258" width="72" height="56" rx="4"/>
+    <circle cx="285" cy="276" r="7"/>
+    <path d="M266 306l22-21 17 15 12-10 19 16"/>
+  </g>
+  <text x="50%" y="348" text-anchor="middle" font-family="Helvetica, Arial, sans-serif"
+        font-size="17" fill="#8d8778" letter-spacing="2">promo-hair-1</text>
+</svg>

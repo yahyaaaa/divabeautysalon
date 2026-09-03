@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187 413" width="187" height="413" role="img" aria-label="hero-2">
+  <rect width="187" height="413" fill="#e8e4da"/>
+  <rect x="1" y="1" width="185" height="411" fill="none" stroke="#cfc9bb" stroke-width="1.5" stroke-dasharray="7 5"/>
+  <g fill="none" stroke="#b3ac9c" stroke-width="1.6">
+    <rect x="72" y="177" width="42" height="32" rx="3"/>
+    <circle cx="84" cy="187" r="4"/>
+    <path d="M73 201l13-12 10 9 7-6 11 9"/>
+  </g>
+  <text x="50%" y="228" text-anchor="middle" font-family="Helvetica, Arial, sans-serif"
+        font-size="11" fill="#8d8778" letter-spacing="1.2">hero-2</text>
+</svg>

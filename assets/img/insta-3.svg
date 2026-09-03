@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="insta-3">
+  <rect width="400" height="400" fill="#e8e4da"/>
+  <rect x="1" y="1" width="398" height="398" fill="none" stroke="#cfc9bb" stroke-width="1.5" stroke-dasharray="7 5"/>
+  <g fill="none" stroke="#b3ac9c" stroke-width="1.6">
+    <rect x="179" y="170" width="42" height="32" rx="3"/>
+    <circle cx="191" cy="180" r="4"/>
+    <path d="M180 194 l13 -12 l10 9 l7 -6 l11 9"/>
+  </g>
+  <text x="50%" y="216" text-anchor="middle" font-family="Helvetica, Arial, sans-serif"
+        font-size="12" fill="#8d8778" letter-spacing="1.5">insta-3</text>
+</svg>
